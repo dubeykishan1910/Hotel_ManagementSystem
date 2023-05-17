@@ -4,6 +4,7 @@ import random
 from tkinter import messagebox
 import mysql.connector
 from PIL import Image,ImageTk
+import sys
 
 
 
